@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    color: white;
+    h1{
+        font-weight: normal;
+    }
+}
+.container{
+     display: flex;
+     flex-wrap: wrap;
+}
+header{
+    background-color: orangered;
+    width: 100%;
+    text-align: center;
+}
+.fdc{
+    height: 751px;
+}
+.sleft{
+    background-color: rgb(0, 151, 245);
+    text-align: center;
+    width: 25%;
+}
+main{
+    background-color: rgb(107, 17, 167);
+    width: 50%;
+    text-align: center;
+}
+.sright{
+    background-color: green;
+    width:25%;
+    text-align: center;
+}
+footer{
+    background-color: rgb(255, 2, 171);
+    width: 100%;
+    text-align: center;
+}
